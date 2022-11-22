@@ -1,0 +1,2 @@
+(1) Testing strategies to find the optimal technique to use expert demonstrations during online RL after bootstrapping. 
+(2) Analyse the effects of quantity and quality of (expert/suboptimal) demonstrations on the initial learning, overall performance, time to convergence etc. 
